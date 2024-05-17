@@ -50,7 +50,7 @@
 140C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergePaths.js133603708609999271 0
 102C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\abortcontroller-polyfill133603585705832825 1
 88C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib133603585097067117 1
-69C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist133604314864189006 1
+69C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist133604317131294883 1
 108C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\json-schema-traverse\README.md133603584871251035 0
 106C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\svgo\plugins\cleanupAttrs.js133603708614463567 0
 112C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\rules\no-func-assign.js133603585071037292 0
@@ -136,7 +136,7 @@
 145C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\eslint-plugin\dist\rules\object-curly-spacing.js133603585037800995 0
 140C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages133603585700742316 1
 124C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\src\_interop_require_wildcard.mjs133603708646358637 0
-77C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\index.ts133604314918504818 0
+77C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\index.ts133604317130318020 0
 112C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\utility-types\dist\mapped-types.js133603585699941662 0
 92C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\balanced-match133603584843827395 1
 151C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\dependentSchemas.d.ts133603585090400042 0
@@ -9953,6 +9953,6 @@
 89C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\paddle.db428d2d.png133604314863747077 0
 93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-blue.515be4d7.png133604314863747077 0
 94C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-green.0f9bc967.png133604314863847390 0
-87C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.b71e74eb.js133604314863727085 0
 93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\background.cc312e9e.png133604314863867401 0
-91C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.b71e74eb.js.map133604314863898912 0
+87C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.b71e74eb.js133604317130652743 0
+91C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.b71e74eb.js.map133604317130884739 0

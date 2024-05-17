@@ -40,11 +40,12 @@ function gameLoop(
     view:CanvasView,
     bricks: Brick[],
     paddle: Paddle,
-    // ball:Ball
+    ball:Ball
 ) {
     console.log("draw")
     view.clear()
     view.drawBrick(bricks)
+    view.drawSprite(ball)
     view.drawSprite(paddle)
 
 // Move  paddle and check if it do not  exit from play field area
@@ -54,7 +55,7 @@ function gameLoop(
         paddle.movePaddle()
     }
 
-    requestAnimationFrame(()=> gameLoop(view,bricks,paddle))
+    requestAnimationFrame(()=> gameLoop(view,bricks,paddle,ball))
 }
 
 
@@ -67,6 +68,17 @@ function startGame (view: CanvasView){
     // create Bricks
     const bricks = createBricks()
 
+    // create Ball
+    const ball = new Ball(
+        BALL_SPEED,
+        BALL_SIZE,
+        {
+            x: BALL_STARTX,
+            y:BALL_STARTY
+        },
+        BALL_IMAGE
+    )
+
     // create Paddle
     const paddle = new Paddle(
         PADDLE_SPEED,
@@ -78,7 +90,7 @@ function startGame (view: CanvasView){
         PADDLE_IMAGE
     )
 
-    gameLoop(view,bricks,paddle)
+    gameLoop(view,bricks,paddle,ball)
 
 }
 
