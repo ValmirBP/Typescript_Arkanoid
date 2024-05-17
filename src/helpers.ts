@@ -1,4 +1,4 @@
-import { Brick } from "./sprites/brick";
+import { Brick } from "./sprites/Brick";
 
 import {
     BRICK_IMAGES,

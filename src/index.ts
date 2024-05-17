@@ -1,8 +1,8 @@
 // Start here
 import { CanvasView } from "./view/CanvasView";
 import { Ball } from "./sprites/Ball";
-import { Brick } from "./sprites/brick";
-import { Paddle } from "./sprites/paddle";
+import { Brick } from "./sprites/Brick";
+import { Paddle } from "./sprites/Paddle";
 
 //images
 import PADDLE_IMAGE from "./images/paddle.png"
@@ -45,6 +45,14 @@ function gameLoop(
     console.log("draw")
     view.clear()
     view.drawBrick(bricks)
+    view.drawSprite(paddle)
+
+// Move  paddle and check if it do not  exit from play field area
+    if ((paddle.isMovingLeft && paddle.pos.x > 0 )
+        || (paddle.isMovingRight && paddle.pos.x < view.canvas.width - paddle.width)
+    ){
+        paddle.movePaddle()
+    }
 
     requestAnimationFrame(()=> gameLoop(view,bricks,paddle))
 }
