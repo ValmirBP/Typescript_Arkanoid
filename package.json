@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "source": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel serve src/index.html",
@@ -11,13 +12,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-typescript-tsc": "^2.12.0",
     "@typescript-eslint/eslint-plugin": "^4.11.0",
     "@typescript-eslint/parser": "^4.11.0",
     "eslint": "^7.16.0",
     "eslint-config-prettier": "^7.1.0",
     "eslint-plugin-prettier": "^3.3.0",
     "parcel": "^2.12.0",
-    "parcel-bundler": "^1.12.4",
     "prettier": "^2.2.1",
     "typescript": "^4.1.3"
   }
