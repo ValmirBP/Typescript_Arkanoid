@@ -56,10 +56,17 @@ function gameLoop(
     collision.checkBallCollision(ball,paddle,view)
 
 // Move  paddle and check if it do not  exit from play field area
-    if ((paddle.isMovingLeft && paddle.pos.x > 0 )
-        || (paddle.isMovingRight && paddle.pos.x < view.canvas.width - paddle.width)
-    ){
+    if ((paddle.isMovingLeft && paddle.pos.x > 0 ) ||
+        (paddle.isMovingRight && paddle.pos.x < view.canvas.width - paddle.width)) {
         paddle.movePaddle()
+    }
+
+    // collision.checkBallCollision(ball,paddle,view)
+    const collidingBrick = collision.isCollidingBricks(ball,bricks)
+
+    if  (collidingBrick) {
+        score+=1
+        view.drawScore(score)
     }
 
     requestAnimationFrame(()=> gameLoop(view,bricks,paddle,ball,collision))

@@ -1,4 +1,17 @@
 9959
+117C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\cli-engine\formatters\tap.js133603585109044410 0
+109C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\regions\AT.js133603584989822144 0
+165C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133603708601592935 0
+113C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\rules\no-class-assign.js133603585059114796 0
+123C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\css-tree\lib\syntax\config\parser-selector.js133603708636066130 0
+123C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\lib\compile\resolve.ts133603585112738763 0
+89C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\safe-buffer133603584854426315 1
+128C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\dom-serializer\node_modules\entities\lib\encode.js133603708589647155 0
+121C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@babel\highlight\node_modules\chalk\license133603584829364880 0
+93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\posthtml-render133603708590819433 1
+130C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\lib\compile\validate\index.ts133603585098933193 0
+106C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\fastq\.github\dependabot.yml133603584945688296 0
+132C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\eslint-plugin\docs\rules\typedef.md133603585120953892 0
 134C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage133603585726349032 1
 75C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\images133603577255034578 1
 121C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\typescript\lib\lib.es2020.sharedmemory.d.ts133603585135606305 0
@@ -7,7 +20,7 @@
 97C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\rimraf\CHANGELOG.md133603584858893773 0
 127C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\espree\node_modules\eslint-visitor-keys\README.md133603584878373223 0
 130C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\json-stable-stringify-without-jsonify\test\nested.js133603584928185475 0
-85C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\sprites\Brick.ts133603677562865054 0
+85C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\sprites\Brick.ts133607934073637583 0
 119C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\update-browserslist-db\.devcontainer.json133603584871387306 0
 119C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\electron-to-chromium\chromium-versions.js133603584786395883 0
 99C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\node-releases\LICENSE133603584770425214 0
@@ -33,7 +46,7 @@
 140C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergePaths.js133603708609999271 0
 102C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\abortcontroller-polyfill133603585705832825 1
 88C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib133603585097067117 1
-69C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist133607887652798302 1
+69C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist133607959782867014 1
 108C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\json-schema-traverse\README.md133603584871251035 0
 106C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\svgo\plugins\cleanupAttrs.js133603708614463567 0
 112C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\rules\no-func-assign.js133603585071037292 0
@@ -95,7 +108,7 @@
 119C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\src\_array_without_holes.mjs133603708642771390 0
 146C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\attributes.js133603708589271675 0
 148C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\lang.js133603708621121362 0
-81C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\Collision.ts133607887784773487 0
+81C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\Collision.ts133607962077014369 0
 105C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@lezer\common\dist\index.js133603585703089585 0
 79C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\helpers.ts133604314723880853 0
 127C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\ordered-binary\.nyc_output\processinfo\index.json133603585702734071 0
@@ -118,7 +131,7 @@
 103C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\core\lib\types.js133603585735576139 0
 110C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\node-gyp-build-optional-packages133603585700932283 1
 100C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\source-code133603585106839436 1
-79C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\index.html133604310851793490 0
+79C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\index.html133607929127902779 0
 117C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\type-fest\source\async-return-type.d.ts133603584851684994 0
 126C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133603708608053010 0
 124C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\json-stable-stringify-without-jsonify\index.js133603584828015636 0
@@ -131,14 +144,14 @@
 145C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\eslint-plugin\dist\rules\object-curly-spacing.js133603585037800995 0
 140C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages133603585700742316 1
 124C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\src\_interop_require_wildcard.mjs133603708646358637 0
-77C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\index.ts133607878673259029 0
+77C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\index.ts133607959782305416 0
 112C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\utility-types\dist\mapped-types.js133603585699941662 0
 92C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\balanced-match133603584843827395 1
 151C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\dependentSchemas.d.ts133603585090400042 0
 147C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\scope-manager\dist\referencer\VisitorBase.d.ts.map133603585099333206 0
 95C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\is-glob\README.md133603584835176514 0
 89C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\ansi-styles133603584851068960 1
-77C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\setup.ts133603576024461843 0
+77C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\src\setup.ts133607951645557235 0
 144C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\experimental-utils\dist\ast-utils\misc.d.ts.map133603585019807953 0
 94C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\rimraf\README.md133603584873374725 0
 147C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-require-imports.js.map133603585084704879 0
@@ -354,8 +367,6 @@
 84C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@types133603708655320525 1
 110C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\electron-to-chromium\versions.js133603584900361537 0
 110C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\htmlnano\lib\presets\ampSafe.mjs133603708623311085 0
-110C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\rules\guard-for-in.js133603585029637248 0
-93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\brace-expansion133603584825400091 1
 99C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@trysound\sax\LICENSE133603708585180324 0
 113C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\type-fest\source\tsconfig-json.d.ts133603584987979475 0
 152C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\validation\dependentRequired.d.ts133603585089958750 0
@@ -398,6 +409,8 @@
 130C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\experimental-utils\dist\ast-utils133603585059784106 1
 86C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\boolbase133603584804314035 1
 112C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\features\sdch.js133603585135441091 0
+110C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\rules\guard-for-in.js133603585029637248 0
+93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\brace-expansion133603584825400091 1
 113C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\_\_object_spread_props133603708640063797 1
 84C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\braces133603584868203799 1
 152C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\eslint-plugin\dist\rules\consistent-type-imports.js.map133603585064726415 0
@@ -1012,14 +1025,6 @@
 138C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\experimental-utils\_ts3.4\dist\index.d.ts133603585051284640 0
 115C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\electron-to-chromium\full-versions.js133603584874430151 0
 86C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\posthtml133603708591438681 1
-165C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133603708601592935 0
-113C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\rules\no-class-assign.js133603585059114796 0
-123C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\css-tree\lib\syntax\config\parser-selector.js133603708636066130 0
-123C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\lib\compile\resolve.ts133603585112738763 0
-89C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\safe-buffer133603584854426315 1
-128C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\dom-serializer\node_modules\entities\lib\encode.js133603708589647155 0
-121C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@babel\highlight\node_modules\chalk\license133603584829364880 0
-93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\posthtml-render133603708590819433 1
 126C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\csso\cjs\restructure\prepare\processSelector.cjs133603708610207752 0
 132C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\typescript\lib\pt-br\diagnosticMessages.generated.json133603585134358210 0
 86C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\prettier133603585035826787 1
@@ -1102,9 +1107,9 @@
 95C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\esprima\README.md133603584827954272 0
 114C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\typescript\lib\lib.es2022.error.d.ts133603585135785800 0
 102C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\semver\ranges\outside.js133603584979045155 0
+88C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\source-map133603584951760540 1
 105C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\rules\no-void.js133603585094436174 0
 113C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\type-fest\source\readonly-deep.d.ts133603584978604335 0
-88C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\source-map133603584951760540 1
 115C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\postcss-value-parser\lib\stringify.js133603708589471630 0
 162C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133603708603507312 0
 96C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules133603584754983724 1
@@ -1149,7 +1154,6 @@
 114C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\prettier-linter-helpers\package.json133603584902767876 0
 119C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\core\test\fixtures\common-targets133603585736028954 1
 98C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\typescript\lib\zh-cn133603585134611962 1
-136C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js133603708588372955 0
 124C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133603585701653968 0
 105C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\node-addon-api\package.json133603707604136237 0
 134C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133603585726739738 1
@@ -1684,7 +1688,7 @@
 108C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\typescript\lib\lib.es2015.d.ts133603585135044005 0
 113C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@nodelib\fs.scandir\out\utils\fs.js133603584889939331 0
 116C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\typescript\lib\lib.es2015.reflect.d.ts133603585135122314 0
-80C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.html133607887400930151 0
+80C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.html133607935559789399 0
 93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\lmdb\caching.js133603585730962556 0
 124C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\cosmiconfig\node_modules\js-yaml\lib\loader.js133603708605423646 0
 127C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\features\css-scroll-behavior.js133603585080275010 0
@@ -2015,13 +2019,6 @@
 99C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\tsutils\util\usage.js133603584975099888 0
 143C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json133603708594639262 0
 130C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Block.cjs133603708597519692 0
-105C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\css-tree\lib\utils\ident.js133603708633818019 0
-119C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\esquery\node_modules\estraverse\.jshintrc133603584773763284 0
-90C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\csso\LICENSE133603708585240153 0
-112C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\node-addon-api\tools\check-napi.js133603707602922390 0
-120C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\css-select\lib\pseudo-selectors\index.d.ts133603708622757877 0
-97C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\.bin\node-which.cmd133603585152452801 0
-153C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\additionalProperties.js133603584896554140 0
 100C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\tsutils\util\util.d.ts133603585020721102 0
 124C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\features\css-unicode-bidi.js133603585085528283 0
 102C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\tsutils\util\util.js.map133603585003863645 0
@@ -2509,10 +2506,10 @@
 145C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Nth.js133603708624373999 0
 116C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\ajv\lib\refs\json-schema-draft-04.json133603585010524470 0
 111C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\htmlnano\docs\docs\040-presets.md133603708620058618 0
-137C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\lib\vocabularies\applicator\anyOf.ts133603585085358284 0
 110C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\.bin\download-msgpackr-prebuilds133603585751858677 0
 93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\deep-is\example133603584788609400 1
 155C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\additionalProperties.d.ts133603585084190845 0
+137C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\lib\vocabularies\applicator\anyOf.ts133603585085358284 0
 134C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\lib\vocabularies\applicator\if.ts133603585095441130 0
 137C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\lib\vocabularies\applicator\items.ts133603585102146795 0
 107C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@nodelib\fs.stat\package.json133603584910775562 0
@@ -2612,7 +2609,6 @@
 96C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\callsites\index.js133603584806359631 0
 135C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\lib\compile\validate\boolSchema.ts133603585086083496 0
 133C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\lib\compile\validate\dataType.ts133603585088923419 0
-130C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\lib\compile\validate\index.ts133603585098933193 0
 99C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\posthtml\package.json133603708589331642 0
 99C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\options.js133603585097117164 0
 103C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\dist\src\drawRow.js133603584945305626 0
@@ -2852,6 +2848,13 @@
 102C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\fast-deep-equal\react.js133603584859223784 0
 103C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\ordered-binary\index.d.ts133603585704278520 0
 152C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\additionalItems.js.map133603585052802809 0
+105C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\css-tree\lib\utils\ident.js133603708633818019 0
+119C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\esquery\node_modules\estraverse\.jshintrc133603584773763284 0
+90C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\csso\LICENSE133603708585240153 0
+112C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\node-addon-api\tools\check-napi.js133603707602922390 0
+120C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\css-select\lib\pseudo-selectors\index.d.ts133603708622757877 0
+97C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\.bin\node-which.cmd133603585152452801 0
+153C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\additionalProperties.js133603584896554140 0
 157C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\additionalProperties.js.map133603585053198091 0
 122C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\features\battery-status.js133603585007154051 0
 124C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map133603708615801050 0
@@ -2922,9 +2925,9 @@
 103C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\dist\src\table.d.ts133603585030511180 0
 142C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\items2020.js133603585006400416 0
 115C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\cjs\_sliced_to_array.cjs133603708622126461 0
-146C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\items2020.js.map133603585068775895 0
 95C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\lmdb\package.json133603585732782712 0
 152C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\eslint-plugin\docs\rules\space-before-function-paren.md133603585120435461 0
+146C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\items2020.js.map133603585068775895 0
 153C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\eslint-plugin\docs\rules\adjacent-overload-signatures.md133603585103963133 0
 108C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\shared\ast-utils.js133603584957128184 0
 140C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\oneOf.d.ts133603585107413253 0
@@ -3990,7 +3993,6 @@
 104C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\nth-check\lib\parse.js.map133603708604430291 0
 145C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\eslint-plugin\docs\rules\no-duplicate-imports.md133603585110475650 0
 115C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\csso\node_modules\css-tree\lib\walker133603708634240150 1
-136C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133603708586742217 0
 112C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\nth-check\lib\esm\compile.d.ts.map133603708598113673 0
 110C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\nth-check\lib\esm\compile.js.map133603708599760106 0
 106C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\nth-check\lib\esm\index.d.ts133603708606624082 0
@@ -4953,8 +4955,6 @@
 105C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\transformer-css\src133603708588362975 1
 115C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\csso\node_modules\css-tree\lib\parser133603708636559390 1
 102C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\fastq\test\tsconfig.json133603584908573482 0
-106C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\fastq\.github\dependabot.yml133603584945688296 0
-132C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\eslint-plugin\docs\rules\typedef.md133603585120953892 0
 101C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\fastq\.github\workflows133603584937989455 1
 98C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\ajv\lib\dotjs\ref.js133603585003313015 0
 129C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-js\src\helpers\browser\js-loader.js133603708609056959 0
@@ -5181,7 +5181,7 @@
 107C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint-visitor-keys\README.md133603584876981592 0
 119C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\features\multicolumn.js133603585133671578 0
 109C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\css-select\lib\esm\compile.d.ts133603708621494496 0
-95C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-purple.cbd6284a.png133607887400920118 0
+95C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-purple.cbd6284a.png133607935559864685 0
 119C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint-visitor-keys\lib\visitor-keys.json133603584844135654 0
 113C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\core\test\fixtures\main-mjs133603585736506589 1
 103C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint-utils\index.js.map133603584876981592 0
@@ -5622,7 +5622,6 @@
 119C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\cli-engine\formatters\junit.js133603585042291409 0
 140C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\experimental-utils\dist\ts-eslint\Linter.js133603584967514284 0
 121C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\cli-engine\formatters\stylish.js133603585108389136 0
-117C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\cli-engine\formatters\tap.js133603585109044410 0
 118C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\lib\cli-engine\formatters\unix.js133603585110122611 0
 109C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\regions\MA.js133603585129384798 0
 108C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\eslint\conf\category-list.json133603585112225437 0
@@ -6875,7 +6874,6 @@
 109C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\regions\AO.js133603584976180075 0
 109C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\regions\AR.js133603584978889954 0
 109C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\regions\AS.js133603584985891840 0
-109C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\regions\AT.js133603584989822144 0
 120C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@babel\helper-validator-identifier\scripts133603584916744890 1
 109C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\caniuse-lite\data\regions\AW.js133603585000035725 0
 90C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\rust133603585750117891 1
@@ -7812,7 +7810,7 @@
 129C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\eslint-plugin\dist\rules\semi.js133603585051972049 0
 127C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\scope-manager\dist\assert.d.ts133603585102046775 0
 125C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\scope-manager\dist\assert.js133603584836599857 0
-87C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\ball.9af8dd59.png133607887401065345 0
+87C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\ball.9af8dd59.png133607935559749348 0
 129C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\scope-manager\dist\assert.js.map133603585041721544 0
 127C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\scope-manager\dist\ID.d.ts.map133603585086383760 0
 121C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@typescript-eslint\scope-manager\dist\ID.js133603585021172102 0
@@ -8671,7 +8669,7 @@
 102C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\esm\_set.js133603708634190032 0
 115C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\esm\_set_prototype_of.js133603708634140046 0
 114C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\esm\_super_prop_base.js133603708634483582 0
-95C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-yellow.701b8c45.png133607887400910114 0
+95C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-yellow.701b8c45.png133607935559789399 0
 128C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\esm\_tagged_template_literal_loose.js133603708634533732 0
 104C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\esm\_throw.js133603708634613724 0
 107C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@swc\helpers\esm\_to_array.js133603708634653685 0
@@ -8884,7 +8882,7 @@
 107C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\transformer-image\src133603708593097191 1
 125C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\transformer-image\src\validateConfig.js133603708593344611 0
 127C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\transformer-image\src\ImageTransformer.js133603708588362975 0
-92C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-red.93b1aeab.png133607887400930151 0
+92C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-red.93b1aeab.png133607935559874702 0
 125C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\transformer-image\lib\validateConfig.js133603708592250183 0
 130C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\transformer-html\node_modules\srcset\license133603708585250135 0
 132C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\transformer-html\node_modules\srcset\readme.md133603708589281633 0
@@ -8925,6 +8923,8 @@
 124C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\core\lib\requests\AssetGraphRequest.js133603585724939060 0
 112C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-service-worker\lib133603708586624277 1
 121C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-service-worker\package.json133603708589747473 0
+136C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js133603708588372955 0
+136C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133603708586742217 0
 111C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-react-refresh\src133603708588163008 1
 100C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-js\lib133603708610127819 1
 104C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\@parcel\runtime-js\LICENSE133603708587560295 0
@@ -9950,11 +9950,11 @@
 95C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\.bin\tsserver.ps1133603585152398661 0
 109C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\node_modules\.bin\update-browserslist-db.cmd133603585152398661 0
 94C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\Arkanoid.59712999.js.map133603664536919519 0
+93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\background.cc312e9e.png133607935559914682 0
+93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-blue.515be4d7.png133607935559749348 0
+94C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-green.0f9bc967.png133607935559769404 0
 87C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.377278e2.js133603664536720643 0
 91C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.377278e2.js.map133603664536780494 0
-89C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\paddle.db428d2d.png133607887400900109 0
-93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-blue.515be4d7.png133607887400950158 0
-94C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\brick-green.0f9bc967.png133607887401055308 0
-93C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\background.cc312e9e.png133607887401075285 0
-87C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.b71e74eb.js133607887652541345 0
-91C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.b71e74eb.js.map133607887652637017 0
+89C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\paddle.db428d2d.png133607935559704241 0
+87C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.b71e74eb.js133607959782547010 0
+91C:\Users\valmi\OneDrive\Documents\Enviroment\Typescript\Arkanoid\dist\index.b71e74eb.js.map133607959782667218 0
