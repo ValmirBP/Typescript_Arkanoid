@@ -6,13 +6,13 @@ A modern implementation of the classic Arkanoid game using TypeScript, HTML5 Can
 including collision detection, sprite handling, and dynamic user interface updates.
 
 ## Table of Contents
-- [Features](Features)
-- [Prerequisites](Prerequisites)
-- [Usage](Usage)
-- [Game Mechanics](GameMechanics)
-- [Video](Video)
-- [Contributing](Contributing)
-- [Acknowledgements](Acknowledgements)
+- [Features](#Features)
+- [Prerequisites](#Prerequisites)
+- [Usage](#Usage)
+- [Game Mechanics](#GameMechanics)
+- [Video](#Video)
+- [Contributing](#Contributing)
+- [Acknowledgements](#Acknowledgements)
 
 ## Features
 Classic Arkanoid gameplay
