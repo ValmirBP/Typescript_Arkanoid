@@ -32,9 +32,13 @@ export class CanvasView {
         if (this.scoreDisplay) this.scoreDisplay.innerHTML= score.toString()
       }
 
-    drawInfo(text: string):void{
-        if (this.info) this.info.innerHTML = text
-    }
+      drawInfo(text: string, color: string = 'black'): void {
+        if (this.info) {
+          this.info.style.color = color;
+          this.info.innerHTML = text;
+        }
+      }
+
 
     drawSprite(brick: Brick | Paddle | Ball) : void{
         if (!brick) return

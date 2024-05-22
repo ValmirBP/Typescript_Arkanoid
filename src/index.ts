@@ -28,12 +28,12 @@ let gameOver = false
 let score = 0
 
 function setGameOver(view:CanvasView){
-    view.drawInfo('Game Over')
+    view.drawInfo('Game Over', 'red')
     gameOver= false
 }
 
 function setGameWin (view: CanvasView) {
-    view.drawInfo('Winner !!')
+    view.drawInfo('Winner !!', 'green')
     gameOver= false
 }
 
