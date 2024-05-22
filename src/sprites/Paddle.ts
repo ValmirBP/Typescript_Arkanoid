@@ -1,30 +1,28 @@
-import { Vector } from "../types";
-
+import { Vector } from '../types';
 
 export class Paddle {
-    private paddleImage = new Image();
+    private paddleImage= new Image();
     private moveLeft: boolean;
     private moveRight: boolean;
 
-
     constructor(
-        private speed: number ,
+        private speed: number,
         private paddleWidth: number,
         private paddleHeight: number,
         private position: Vector,
         image: string
     ){
-        this .speed = speed,
+        this.speed = speed
         this.paddleWidth = paddleWidth
         this.paddleHeight = paddleHeight
-        this.position = position,
-        this.moveLeft = false,
-        this.moveRight = false,
-        this.paddleImage.src = image;
+        this.position = position
+        this.moveLeft = false
+        this.moveRight = false
+        this.paddleImage.src = image
 
     // Event listeners
-    document.addEventListener('keydown',this.handleKeyDown)
-    document.addEventListener('keyup',this.handleKeyUp)
+    document.addEventListener('keydown', this.handleKeyDown)
+    document.addEventListener('keyup', this.handleKeyUp)
     }
 
     // Getter
@@ -58,13 +56,12 @@ export class Paddle {
     }
 
     handleKeyUp = (e: KeyboardEvent): void => {
-        if (e.code ===  "ArrowLeft" || e.key === "ArrowLeft") this.moveLeft = false
-        if (e.code ===  "ArrowRight" || e.key === "ArrowRight") this.moveRight = false
+        if (e.code ===  'ArrowLeft' || e.key === 'ArrowLeft') this.moveLeft = false
+        if (e.code ===  'ArrowRight' || e.key === 'ArrowRight') this.moveRight = false
     }
 
     handleKeyDown = (e: KeyboardEvent): void => {
-        if (e.code ===  "ArrowLeft" || e.key === "ArrowLeft") this.moveLeft = true
-        if (e.code ===  "ArrowRight" || e.key === "ArrowRight") this.moveRight = true
+        if (e.code ===  'ArrowLeft' || e.key === 'ArrowLeft') this.moveLeft = true
+        if (e.code ===  'ArrowRight' || e.key === 'ArrowRight') this.moveRight = true
     }
-
 }

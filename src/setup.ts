@@ -38,10 +38,10 @@ export const BRICK_IMAGES: { [key: number]: string } = {
 
 export const BRICK_ENERGY: { [key: number]: number } = {
   1: 1, // Red brick
-  2: 1, // Green brick
-  3: 2, // Yellow brick
-  4: 2, // Blue brick
-  5: 3 // Purple brick
+  2: 2, // Green brick
+  3: 3, // Yellow brick
+  4: 4, // Blue brick
+  5: 5 // Purple brick
 };
 
 // prettier-ignore
@@ -50,6 +50,6 @@ export const LEVEL = [
   0, 0, 1, 1, 1, 1, 1, 1, 0, 0,
   0, 2, 2, 2, 2, 2, 2, 2, 2, 0,
   0, 3, 3, 3, 3, 3, 3, 3, 3, 0,
-  0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 
+  0, 0, 4, 4, 4, 4, 4, 4, 0, 0,
   0, 0, 5, 5, 0, 0, 5, 5, 0, 0,
 ];

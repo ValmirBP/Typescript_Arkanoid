@@ -17,7 +17,7 @@ export class Ball {
         this.speed = {
             x: speed,
             y: -speed
-        },
+        }
         this.ballImage.src = image
     }
 
@@ -52,5 +52,4 @@ export class Ball {
         this.pos.x  += this.speed.x
         this.pos.y  += this.speed.y
     }
-
 }

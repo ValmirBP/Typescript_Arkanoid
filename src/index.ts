@@ -32,7 +32,7 @@ function setGameOver(view:CanvasView){
     gameOver= false
 }
 
-function steGameWin (view: CanvasView) {
+function setGameWin (view: CanvasView) {
     view.drawInfo('Winner !!')
     gameOver= false
 }
@@ -46,7 +46,7 @@ function gameLoop(
 ) {
     console.log("draw")
     view.clear()
-    view.drawBrick(bricks)
+    view.drawBricks(bricks)
     view.drawSprite(paddle)
     view.drawSprite(ball)
 
@@ -68,6 +68,13 @@ function gameLoop(
         score+=1
         view.drawScore(score)
     }
+
+    // Game over
+    if (ball.pos.y> view.canvas.height ) gameOver = true
+    // set game over nad display  win
+    if (bricks.length === 0 ) return setGameWin (view)
+    //return game over  and  do not run the requestAnimationFrame
+    if (gameOver) return setGameOver(view)
 
     requestAnimationFrame(()=> gameLoop(view,bricks,paddle,ball,collision))
 }

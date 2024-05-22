@@ -36,27 +36,21 @@ export class Collision {
     }
 
     checkBallCollision(ball: Ball, paddle: Paddle, view: CanvasView): void {
-        // Ball collision with paddle
+        // 1. Ball collision with paddle
         if (
             ball.pos.x + ball.width > paddle.pos.x &&
             ball.pos.x < paddle.pos.x + paddle.width &&
-            ball.pos.y + ball.height >= paddle.pos.y &&
-            ball.pos.y < paddle.pos.y + paddle.height
+            ball.pos.y + ball.height === paddle.pos.y
         ) {
             ball.changeYDirection();
         }
 
         // Ball collision with walls
-        if (ball.pos.x + ball.width > view.canvas.width || ball.pos.x < 0) {
+        if (ball.pos.x > view.canvas.width - ball.width || ball.pos.x < 0) {
             ball.changeXDirection();
         }
         if (ball.pos.y < 0) {
             ball.changeYDirection();
-        }
-
-        // Check for game over condition if ball goes below paddle
-        if (ball.pos.y + ball.height > view.canvas.height) {
-            gameOver = true;
         }
     }
 }
