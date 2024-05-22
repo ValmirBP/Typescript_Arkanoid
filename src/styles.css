@@ -1,41 +1,69 @@
 :root {
-    --width: 1000px;
-    --height: 650px;
-  }
+  --width: 1000px;
+  --height: 650px;
+}
 
-  #main {
-    position: relative;
-    width: 1000px;
-    margin: 0 auto;
-    width: var(--width);
-    height: var(--height);
-    font-size: 32px;
-    font-family: Arial, Helvetica, sans-serif;
-  }
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('./images/background.png');
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-  canvas {
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: 10;
-    border-top: 1px solid grey;
-    border-left: 1px solid grey;
-    border-right: 1px solid grey;
-    margin-bottom: 30px;
-  }
+#main {
+  position: relative;
+  width: var(--width);
+  height: var(--height);
+  font-size: 32px;
+  text-align: center;
+}
 
-  #display {
-    position: absolute;
-    bottom: 0;
-    display: flex;
-    justify-content: space-between;
-    width: var(--width);
-  }
+canvas {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid grey;
+  z-index: 10;
+}
 
-  #score,
-  #info {
-      width: 200px;
-    }
+#display {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  box-sizing: border-box;
+}
 
-    #score
-    { color: green;}
+#score, #info {
+  width: 200px;
+  text-align: center;
+}
+#info
+{
+  color: aqua;
+}
+
+#score {
+  color: aqua;
+}
+
+#start {
+  background-color:aqua;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px auto;
+  cursor: pointer;
+  border-radius: 12px;
+  transition: background-color 0.3s ease;
+}
+
+#start:hover {
+  background-color: azure;
+}

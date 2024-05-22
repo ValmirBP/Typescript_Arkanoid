@@ -21,7 +21,7 @@ export const BRICK_HEIGHT = canvas
   : 30;
 export const PADDLE_WIDTH = 150;
 export const PADDLE_HEIGHT = 25;
-export const PADDLE_STARTX = 450;
+export const PADDLE_STARTX = 425;
 export const PADDLE_SPEED = 10;
 export const BALL_SPEED = 5;
 export const BALL_SIZE = 20;

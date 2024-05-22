@@ -44,7 +44,6 @@ function gameLoop(
     ball:Ball,
     collision:Collision
 ) {
-    console.log("draw")
     view.clear()
     view.drawBricks(bricks)
     view.drawSprite(paddle)
